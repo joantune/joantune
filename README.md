@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<img src="https://github-profile-trophy.vercel.app/?username=joantune&theme=onedark"
+<img src="https://github-profile-trophy.vercel.app/?username=joantune&theme=onedark"/>
 
 <!--
 **joantune/joantune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
